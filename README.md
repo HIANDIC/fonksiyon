@@ -1,0 +1,2 @@
+# fonksiyon
+fonksiyon yazma alistirmasi
